@@ -1,3 +1,4 @@
+
 body {
     background-color: lightblue;
     font-family: Arial, sans-serif;
@@ -62,6 +63,8 @@ button:hover {
 h1:hover {
     color: red;
 }
+
+/* Navbar Styling */
 nav {
     background-color: darkblue;
     padding: 15px;
@@ -76,4 +79,12 @@ nav a {
 
 nav a:hover {
     color: yellow;
+}
+
+/* Footer Styling */
+footer {
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
 }
