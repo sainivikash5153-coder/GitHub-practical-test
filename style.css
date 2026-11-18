@@ -1,0 +1,64 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Main Heading */
+h1 {
+    color: darkblue;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+/* Sub Headings */
+h2 {
+    color: darkgreen;
+    margin-top: 25px;
+}
+
+/* Paragraph */
+p {
+    color: black;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* Skills List */
+ul {
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+/* List Items */
+li {
+    color: darkblue;
+    margin: 8px;
+    font-size: 17px;
+}
+
+/* Button Styling */
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Button Hover */
+button:hover {
+    background-color: green;
+}
+
+/* Main Heading Hover */
+h1:hover {
+    color: red;
+}
